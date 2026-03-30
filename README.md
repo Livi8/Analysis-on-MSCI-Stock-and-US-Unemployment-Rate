@@ -3,31 +3,21 @@
 
 ---
 
-# 1. INTRODUCTION
+## Table of Contents
 
-# 2. METHODOLOGY
-
-## 2.1 Box-Jenkins framework
-
-## 2.2 Model building method
-
-## 2.3 Statistical tests
-
-## 2.4 Model Selection
-
-# 3. DATA AND DESCRIPTIVE ANALYSIS
-
-## 3.1 Microsoft stock returns
-
-## 3.2 US unemployment rate
-
-# 4. MODELS AND PREDICTIONS
-
-## 4.1 Models and prediction for Microsoft log-return
-
-## 4.2 Models and prediction for the unemployment rate in the US
-
-# 5. CONCLUSION
+1. [INTRODUCTION](#1-introduction)  
+2. [METHODOLOGY](#2-methodology)  
+   - [2.1 Box-Jenkins framework](#21-box-jenkins-framework)  
+   - [2.2 Model building method](#22-model-building-method)  
+   - [2.3 Statistical tests](#23-statistical-tests)  
+   - [2.4 Model Selection](#24-model-selection)  
+3. [DATA AND DESCRIPTIVE ANALYSIS](#3-data-and-descriptive-analysis)  
+   - [3.1 Microsoft stock returns](#31-microsoft-stock-returns)  
+   - [3.2 US unemployment rate](#32-us-unemployment-rate)  
+4. [MODELS AND PREDICTIONS](#4-models-and-predictions)  
+   - [4.1 Models and prediction for Microsoft log-return](#41-models-and-prediction-for-microsoft-log-return)  
+   - [4.2 Models and prediction for the unemployment rate in the US](#42-models-and-prediction-for-the-unemployment-rate-in-the-us)  
+5. [CONCLUSION](#5-conclusion)
 
 ---
 
